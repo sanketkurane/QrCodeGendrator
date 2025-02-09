@@ -1,0 +1,23 @@
+@import '../node_modules/bootstrap';
+
+.inputform{
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: large;
+    font-family: cursive;
+}
+.qrdiv{
+    width: fit-content;
+    margin: auto;
+    padding-top: 60px;
+}
+body{
+    background-image:url('../src/assets/Backgroundimg.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
